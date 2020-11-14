@@ -1,0 +1,57 @@
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs
+**/[Bb]in/
+**/[Oo]bj/
+**/[Dd]ebug/
+**/[Rr]elease/
+**/packages/*
+**/_ReSharper.Caches/*
+**/.temporary/*
+**/.cache/*
+**/.resources/*
+**/AppPackages/
+**/Visual Studio 2017/*
+
+# Visual C++ cache files
+**/ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# System file crap
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+#.Net core
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Auto. generated resources
+Resource.Designer.cs
+
+# UWP generated packages
+BundleArtifacts/
+*.appx
+**/_pkginfo.txt
+
+# ignore temp files
+**/App_Data/*
+**/logs/*
+
+*.min.*
+
+# Auto. generated resources
+
+Resource.Designer.cs
+BundleArtifacts/
+*.appx
+**/_pkginfo.txt
